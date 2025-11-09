@@ -6,7 +6,7 @@ Hi, I'm Noah Saggion!
 
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+My+Future%2C+One+Line+of+Code+at+a+Time;Studying+Java;Exploring+Cutting-Edge+Technologies;New+Developer&center=true&width=500&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+My+Future%2C+One+Line+of+Code+at+a+Time;New+Developer+Studying+Java+;Exploring+Cutting-Edge+Technologies&center=true&width=500&height=45&pause=4000"></a>
 </p>
 
 
