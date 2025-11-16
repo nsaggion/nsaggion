@@ -54,7 +54,8 @@ I-am-nsaggion@github
 <p>
 	<a href="#"><img alt="Linux mint" src="https://img.shields.io/badge/Linux_Mint-4c7a6e?logo=linux-mint&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-  <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"></a>
+  	<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"></a>
+	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-dd4814?logo=ubuntu&logoColor=white"></a>
 </p>
 
 ## 📊 &nbsp;My activities
