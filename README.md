@@ -32,8 +32,8 @@ I-am-nsaggion@github
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Css" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Html" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="#"><img alt="Sql" src="https://img.shields.io/badge/SQL%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-	<a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+	<a href="#"><img alt="Sql" src="https://img.shields.io/badge/SQL%20-%4479A1.svg?logo=sql&logoColor=white"></a>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%3670A0.svg?logo=python&logoColor=white"></a>
 
 ### 💻 Software and Tools
 
