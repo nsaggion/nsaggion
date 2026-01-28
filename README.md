@@ -29,9 +29,11 @@ I-am-nsaggion@github
 ### 👨‍💻 Programming Languages
 
 <p>
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+	<a href="#"><img alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 
 ### 💻 Software and Tools
 
@@ -43,19 +45,19 @@ I-am-nsaggion@github
   
 </p>
 
-### Browsers
-<p>
-	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
-	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
-	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
-### Operating Systems
+### 🐧 Operating Systems
 <p>
 	<a href="#"><img alt="Linux mint" src="https://img.shields.io/badge/Linux_Mint-4c7a6e?logo=linux-mint&logoColor=white"></a>
 	<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
   	<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white"></a>
 	<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-dd4814?logo=ubuntu&logoColor=white"></a>
+</p>
+
+### 🌐 Browsers
+<p>
+	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
+	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
 ## 📊 &nbsp;My activities
@@ -71,7 +73,7 @@ I-am-nsaggion@github
 ## 🌐 Let's Connect / ¡Conectemos!
 <p>
   <a href="https://www.linkedin.com/in/noah-saggion-097643342/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-E34F26?logo=email&logoColor=white"></a>
+  <a href="mailto:nsaggion@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-E34F26?logo=email&logoColor=white"></a>
   <a href="https://github.com/nsaggion"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
 </p>
 
