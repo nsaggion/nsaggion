@@ -15,6 +15,7 @@ Hi, I'm Noah Saggion!
 I-am-nsaggion@github
 -------------------------
 🎓 I'm currently in my first year of the DAM (Multiplatform Application Development) Higher Degree program.
+🚀 Currently working with Odoo ERP for business management environments, focusing on implementation and configuration.
 💻 My foundational tools are Java, HTML, and CSS.
 🔥 Passionate about software creation. My main interests include:
     - 📱 Mobile Application Development.
