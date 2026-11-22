@@ -6,7 +6,7 @@ Hi, I'm Noah Saggion!
 
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+My+Future%2C+One+Line+of+Code+at+a+Time;New+Developer+Studying+Java+;Exploring+Cutting-Edge+Technologies&center=true&width=500&height=45&pause=4000"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Building+My+Future%2C+One+Line+of+Code+at+a+Time;2nd+Year+DAM+Developer+%7C+Android+%26+Kotlin;Exploring+AI+Tools+%26+New+Technologies&center=true&width=520&height=45&pause=4000"></a>
 </p>
 
 
@@ -15,10 +15,11 @@ Hi, I'm Noah Saggion!
 I-am-nsaggion@github
 -------------------------
 🎓 I'm currently in my first year of the DAM (Multiplatform Application Development) Higher Degree program.
-🚀 Currently working with Odoo ERP for business management environments, focusing on implementation and configuration.
+📱 Building Android applications with Kotlin and XML.
+💻 Solid foundation in Java, SQL, HTML, and CSS.
 💻 My foundational tools are Java, HTML, and CSS.
 🔥 Passionate about software creation. My main interests include:
-    - 📱 Mobile Application Development.
+    - 📱 Mobile Application Development (Android).
     - 🎮 The logic and design behind Video Games.
 🌱 Always eager to learn and collaborate on new projects.
 ```
@@ -30,21 +31,21 @@ I-am-nsaggion@github
 ### 👨‍💻 Programming Languages
 
 <p>
+	<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
 	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23FF8C00.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Css" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Html" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 	<a href="#"><img alt="Sql" src="https://img.shields.io/badge/SQL%20-%23F29111.svg?logo=sql&logoColor=white"></a>
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/PYTHON%20-%231572B6.svg?logo=python&logoColor=white"></a>
 
-### 💻 Software and Tools
+### 💻 Software, AI & Tools
 
 <p>
+	<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   	<a href="#"><img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white"></a>
-	<a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
-  	<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-	
+<a href="#"><img alt="AI Tools" src="https://img.shields.io/badge/AI%20Assisted%20Dev-000000?logo=openai&logoColor=white"></a>
 </p>
 
 ### 🐧 Operating Systems
@@ -59,6 +60,7 @@ I-am-nsaggion@github
 <p>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
+	<a href="#"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
 </p>
 
